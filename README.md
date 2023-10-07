@@ -23,7 +23,7 @@ Para começar a usar a API de Dados Geográficos de Angola, siga estas etapas si
    - Após receber suas credenciais de API, configure seu ambiente de desenvolvimento para incluir as informações de autenticação em suas solicitações.
 
 3. **Comece a Consultar os Dados:**
-   - Use as solicitações HTTP para acessar as informações de províncias, cidades, municípios e bairros conforme necessário.
+   - Use as solicitações HTTP para acessar as informações de províncias, cidades, municípios e bairros conforme necessário..
 
 ## Contribuição
 
